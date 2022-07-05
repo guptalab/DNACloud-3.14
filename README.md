@@ -9,7 +9,7 @@
 ### Gupta Lab
 
 <p float="left">
-<img src="./img/logos/logos.png" width="350">
+<img src="guptalablogo.jpg" width="300">
 </p>
 
 -Research in our lab currently focuses on two aspects of information processing viz. deciphering the information processing principles in life (systems biology) and building a computer out of bio-molecules (synthetic biology). The key expertise of the lab is in error-correcting codes. We also work in classical and quantum information processing principles with expertise in coding theory and its wide variety of applications in Information and Communication Technology (ICT). 
