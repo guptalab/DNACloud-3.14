@@ -28,10 +28,12 @@
 
 &copy; 2022 Gupta Lab 
 
-To run the application, type following command on command line
+## Instructions
+
+To run the application, type the following command on command line:
 
 > **python MainFrame.py**
 
-Major Dependancies you need to install :
+Some major dependencies you will need to install:
 
 * PyQT
