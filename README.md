@@ -22,11 +22,11 @@
 
 - Our research areas includes mathematics and its elegant applications in Emerging Technologies: DNA digital data storage, DNA computing, chemical computing, coding theory, quantum computing, quantum machine learning, quantum error correction, cryptography, quantum algorithms, synthetic biology, DNA nanotechnology and bioinformatics.
 
-- Visit `guptalab.org` to know more about our work in the area of emerging technolgoies and explore various other softwares.
+- Visit [guptalab.org] to know more about our work in the area of emerging technolgoies and explore various other softwares.
 
 - Please reach us to at `dnacloud@guptalab.org` for any queries related to this software.
 
-- For more information about DNA Cloud 3.14, check out `www.guptalab.org/dnacloud`       
+- For more information about DNA Cloud 3.14, check out [www.guptalab.org/dnacloud]
 
 ## Instructions
 
