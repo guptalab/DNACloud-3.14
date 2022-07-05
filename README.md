@@ -34,9 +34,12 @@ To run the application, type the following command on command line:
 
 > **python MainFrame.py**
 
-Some major dependencies you will need to install:
+## Required Libraries/Dependencies
 
-* PyQt 
+**PyQt**
 
--The latest version can be installed from &copy; Riverbank Computing Limited `https://www.riverbankcomputing.com/software/pyqt/`)
+-The latest version can be installed from &copy; [Riverbank Computing Limited] `https://www.riverbankcomputing.com/software/pyqt/`)
+
+-The GPL version of PyQt5 can also be installed from [PyPI] `https://pypi.org/project/PyQt5/`:
+> **pip install PyOt5
 
