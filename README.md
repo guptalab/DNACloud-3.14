@@ -16,6 +16,8 @@
 <img src="guptalablogo.jpg" width="200">
 </p>
 
+**&copy; 2022 Gupta Lab**
+
 - Research in our lab currently focuses on two aspects of information processing viz. deciphering the information processing principles in life (systems biology) and building a computer out of bio-molecules (synthetic biology). The key expertise of the lab is in error-correcting codes. We also work in classical and quantum information processing principles with expertise in coding theory and its wide variety of applications in Information and Communication Technology (ICT). 
 
 - Our research areas includes mathematics and its elegant applications in Emerging Technologies: DNA digital data storage, DNA computing, chemical computing, coding theory, quantum computing, quantum machine learning, quantum error correction, cryptography, quantum algorithms, synthetic biology, DNA nanotechnology and bioinformatics.
@@ -25,8 +27,6 @@
 - Please reach us to at `dnacloud@guptalab.org` for any queries related to this software.
 
 - For more information about DNA Cloud 3.14, check out `www.guptalab.org/dnacloud`       
-
-**&copy; 2022 Gupta Lab**
 
 ## Instructions
 
