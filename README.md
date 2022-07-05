@@ -26,7 +26,7 @@
 
 -For more information about DNA Cloud 3.14, check out `www.guptalab.org/dnacloud`       
 
-&copy; 2022 Gupta Lab 
+**&copy; 2022 Gupta Lab**
 
 ## Instructions
 
