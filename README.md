@@ -36,4 +36,7 @@ To run the application, type the following command on command line:
 
 Some major dependencies you will need to install:
 
-* PyQT
+* PyQt 
+
+-The latest version can be installed from &copy; Riverbank Computing Limited `https://www.riverbankcomputing.com/software/pyqt/`)
+
