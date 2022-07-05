@@ -40,6 +40,6 @@ To run the application, type the following command on command line:
 
 - The latest version can be installed from &copy; [Riverbank Computing Limited](https://www.riverbankcomputing.com/software/pyqt/)
 
-- The GPL version of PyQt5 can also be installed from [PyPI](https://pypi.org/project/PyQt5/): 
+- The GPL version of PyQt6 can also be installed from [PyPI](https://pypi.org/project/PyQt5/): 
   - > pip install PyQt6
 
