@@ -1,9 +1,9 @@
 <p float="left">
-<img src="guptalablogo.jpg" width="300">
+<img src="guptalablogo.jpg" width="200">
 </p>
 
-<p float="left">
-<img src="DNA-cloud-3.14/DNA_icon-8.png" width="300">
+<p float="right">
+<img src="DNA-cloud-3.14/DNA_icon-8.png" width="200">
 </p>
 
 
