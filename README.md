@@ -1,13 +1,8 @@
-<p float="left">
-<img src="guptalablogo.jpg" width="200">
-</p>
+# DNA Cloud 3.14
 
 <p float="right">
 <img src="DNA-cloud-3.14/DNA_icon-8.png" width="200">
 </p>
-
-
-# DNA Cloud 3.14
 
 -DNA Cloud 3.14 is an even updated version which is more efficient than v2.0. The user has the option to use two different algorithams i.e. Goldman and Golay to encode/decode any type of file. This version also includes the number of chunks of actual DNA required to store the given data. This info will be available in the .dnac file generated while encoding. 
 
@@ -16,6 +11,10 @@
 ## About Us
 
 ### Gupta Lab
+
+<p float="left">
+<img src="guptalablogo.jpg" width="200">
+</p>
 
 -Research in our lab currently focuses on two aspects of information processing viz. deciphering the information processing principles in life (systems biology) and building a computer out of bio-molecules (synthetic biology). The key expertise of the lab is in error-correcting codes. We also work in classical and quantum information processing principles with expertise in coding theory and its wide variety of applications in Information and Communication Technology (ICT). 
 
@@ -27,7 +26,7 @@
 
 -For more information about DNA Cloud 3.14, check out `www.guptalab.org/dnacloud`       
 
-
+&copy; 2022 Gupta Lab 
 
 To run the application, type following command on command line
 
